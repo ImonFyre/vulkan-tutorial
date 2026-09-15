@@ -1,4 +1,4 @@
-Sample project to learn Vulkan programming.
+Sample project to learn Vulkan programming in Rust.
 
 Ultimate goal is to develop an understanding of how to do compute shaders with the Vulkan API.
 
